@@ -1,0 +1,3 @@
+module classexercises {
+	exports classexercises;
+}
